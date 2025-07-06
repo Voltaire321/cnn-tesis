@@ -1,0 +1,24 @@
+# Backend (Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+*.log
+
+# Frontend (Angular/Node)
+node_modules/
+dist/
+.cache/
+.angular/
+.temp/
+*.js.map
+*.css.map
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
