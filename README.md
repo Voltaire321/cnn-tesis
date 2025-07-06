@@ -1,5 +1,5 @@
 # cnn-tesis
-# 🎨 Little Picasso - Clasificación de Dibujos Infantiles con IA
+# 🎨 Little Picasso - Red Neuronal Convolucional para la Clasificación de Dibujos Infantiles hechos a mano
 
 Proyecto de Tesis red neuronal convolucional educativa que clasifica idetifica dibujos infantiles de animales y genera explicaciones pedagógicas para niños de preescolar.
 
