@@ -1,15 +1,15 @@
 # cnn-tesis
 # 🎨 Little Picasso - Red Neuronal Convolucional para la Clasificación de Dibujos Infantiles hechos a mano
 
-Proyecto de Tesis red neuronal convolucional educativa que clasifica idetifica dibujos infantiles de animales y genera explicaciones pedagógicas para niños de preescolar.
+Proyecto de Tesis: Red Neuronal Convolucional educativa que clasifica idetifica dibujos infantiles de animales y genera explicaciones pedagógicas para niños de preescolar para fomentar la alfabeizacion temprana y el pensamiento critico en los niños.
 
 ## 🚀 Tecnologías Clave
 | Área       | Tecnologías                                                                 |
 |------------|----------------------------------------------------------------------------|
 | **Backend** | FastAPI, TensorFlow/Keras, MobileNetV2, Gemini API, ElevenLabs TTS        |
 | **Frontend**| Angular, TypeScript, HTML5/CSS3                                           |
-| **ML**      | Transfer Learning, Data Augmentation, CNN                                  |
-| **DevOps**  | GitHub, Git                                                               |
+| **ML**      | Transfer Learning, Data Augmentation, CNN                                 |
+| **DevOps**  | GitHub                                                                    |
 
 ## ✨ Características Principales
 - **Clasificación en 10 clases**: Oso, abeja, mariposa, vaca, perro, mariquita, león, serpiente, estrella de mar, tortuga
